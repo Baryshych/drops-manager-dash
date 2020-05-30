@@ -41,6 +41,14 @@ const Settings = () => {
               </Alert>
                     </div>
                     <div>
+
+                      <a href="javascript:void(0);" className="btn btn-primary btn-icon-split my-3">
+                    <span className="icon text-white-50">
+                      <i className="fas fa-flag mr-2"></i>
+                    </span>
+                        <span className="text">Drop random skin</span>
+                      </a>
+
                         <Form>
                         Autorun drop:
                             <div key='default-checkbox' className="mb-3">
